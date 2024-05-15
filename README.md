@@ -2,7 +2,7 @@
 
 This app is a Progressive Web App.
 
-[Live Demo](https://food-recipe-app-33e73a.netlify.app/)
+[Live Demo](https://food-recipe-app-a9f10e.netlify.app/)
 
 ## 🚀 Features
 
